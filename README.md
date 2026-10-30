@@ -16,3 +16,4 @@ Java 21을 사용한 코딩테스트 대비 알고리즘 문제 풀이 기록입
 | 순위 | [49191](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 2026-10-26 | 그래프, BFS |
 | N으로 표현 | [42895](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | 2026-10-27 | 동적 계획법(DP), HashSet |
 | 정수 삼각형 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 2026-10-28 | 동적 계획법(DP), 1차원 배열 |
+| 등굣길 | [42898](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 2026-10-29 | 동적 계획법(DP), 격자 경로 계산 |
