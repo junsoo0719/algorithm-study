@@ -18,3 +18,4 @@ Java 21을 사용한 코딩테스트 대비 알고리즘 문제 풀이 기록입
 | 정수 삼각형 | Lv.3 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 2026-10-28 | 동적 계획법(DP), 1차원 배열 |
 | 등굣길 | Lv.3 | [42898](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 2026-10-29 | 동적 계획법(DP), 격자 경로 계산 |
 | 조이스틱 | Lv.2 | [42860](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | 2026-11-06 | 그리디, 좌우 이동 경로 비교 |
+| 큰 수 만들기 | Lv.2 | [42883](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 2026-11-09 | 그리디, 스택 |
