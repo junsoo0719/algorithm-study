@@ -21,3 +21,4 @@ Java 21을 사용한 코딩테스트 대비 알고리즘 문제 풀이 기록입
 | 큰 수 만들기 | Lv.2 | [42883](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 2026-11-09 | 그리디, 스택 |
 | 다리를 지나는 트럭 | Lv.2 | [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 2026-11-13 | 큐, 퇴장 시각 시뮬레이션 |
 | 프로세스 | Lv.2 | [42587](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 2026-11-20 | 큐, 우선순위별 개수 배열, 시뮬레이션 |
+| 디스크 컨트롤러 | Lv.3 | [42627](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 2026-11-23 | 정렬, 우선순위 큐, 시뮬레이션 |
